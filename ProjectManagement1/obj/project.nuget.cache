@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ogd/Q1Q+hpmJxcerRfdXHqyr42M/FefSMMNEvZs052OFtl1pvxbpJ3cFsckPhI3xf5r1/tD2E7NYHyln8ZRpZA==",
+  "dgSpecHash": "HY0ratpx7wJ33R4bkZwWKApbUaOG8cUInGUMq60dy9MD8U7ScaTlcj9tKBG0fEQRqDoxfyvx15Xh1Rj6IC3sbg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Student\\Source\\Repos\\ProjectMangament\\ProjectManagement1\\ProjectManagement.csproj",
+  "projectFilePath": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\ProjectManagement\\ProjectManagement1\\ProjectManagement.UI.MVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Student\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Student\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
